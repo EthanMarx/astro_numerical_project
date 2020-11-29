@@ -10,3 +10,7 @@ redshift = head.redshift
 
 pos = snap.read_block(filename, "POS ")
 mass = snap.read_block(filename, "MASS")
+
+
+
+
